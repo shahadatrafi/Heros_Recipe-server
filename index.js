@@ -9,9 +9,14 @@ app.get('/', (req, res) => {
     res.send('Server is Running')
 })
 
+// API of All chefs data
+
 app.get('/chefData', (req, res) => {
     res.send(chefData)
 })
+
+// API of Recipe loading by id 
+
 app.get('/chefData/:id', (req, res) => {
     const id = parseInt(req.params.id)
     const selectedChef = chefData.find(c => c.id === id);
