@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://pixabay.com/photos/cooking-pizza-the-cook-food-wood-5360649/",
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
         "chef_name": "Maria Rodriguez",
         "short_bio": "Maria is a professional chef with over 10 years of experience in Italian cuisine. She is passionate about creating unique and flavorful dishes that delight her customers.",
         "years_of_experience": 10,
@@ -48,7 +48,7 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://pixabay.com/photos/chef-kitchen-man-portrait-cooking-2223342/",
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
         "chef_name": "John Smith",
         "short_bio": "John is a seasoned chef with over 15 years of experience in French cuisine. He has worked in some of the most prestigious restaurants in Paris and is known for his innovative and creative approach to cooking.",
         "years_of_experience": 15,
@@ -134,11 +134,11 @@
 ]
 },{
     "id": 3,
-    "chef_picture": "https://cdn.pixabay.com/photo/2017/09/22/15/24/chef-2776735_960_720.jpg",
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
     "chef_name": "Thomas Lee",
     "short_bio": "Chef Thomas Lee is a classically trained chef who has worked in some of the most prestigious restaurants in Europe. He specializes in French cuisine and has won several awards for his culinary creations.",
     "years_of_experience": 15,
-    "number_of_recipes": 70,
+    "num_recipes": 3,
     "likes": 3025,
     "recipes": [
     {
@@ -178,11 +178,11 @@
 }
 ]},{
     "id": 4,
-    "chef_picture": "https://cdn.pixabay.com/photo/2016/06/06/08/32/food-1435888_960_720.jpg",
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
     "chef_name": "Samantha Park",
     "short_bio": "Chef Samantha Park is a Korean-American chef who specializes in fusion cuisine. Her unique blend of Korean and American flavors has won her many awards and made her a favorite among foodies.",
     "years_of_experience": 10,
-    "number_of_recipes": 50,
+    "num_recipes": 3,
     "likes": 2500,
     "recipes": [
     {
@@ -220,11 +220,11 @@
     ]
     },{
         "id": 5,
-        "chef_picture": "https://cdn.pixabay.com/photo/2015/03/26/09/39/food-690088_960_720.jpg",
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
         "chef_name": "Antonio Rodriguez",
         "short_bio": "Chef Antonio Rodriguez is a master of Spanish cuisine. He is known for his creative use of fresh seafood and his ability to fuse traditional Spanish dishes with modern techniques.",
         "years_of_experience": 15,
-        "number_of_recipes": 80,
+        "num_recipes": 4,
         "likes": 3500,
         "recipes": [
         {
@@ -262,11 +262,11 @@
         ]
         },{
             "id": 6,
-            "chef_picture": "https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947_960_720.jpg",
+            "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
             "chef_name": "Olivia Chen",
             "short_bio": "Chef Olivia Chen specializes in healthy and flavorful plant-based dishes.",
             "years_of_experience": 8,
-            "number_of_recipes": 50,
+            "num_recipes": 5,
             "likes": 2500,
             "recipes": [
             {
