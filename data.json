@@ -48,7 +48,7 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_picture": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=600",
         "chef_name": "John Smith",
         "short_bio": "John is a seasoned chef with over 15 years of experience in French cuisine. He has worked in some of the most prestigious restaurants in Paris and is known for his innovative and creative approach to cooking.",
         "years_of_experience": 15,
@@ -135,7 +135,7 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",
         "chef_name": "Thomas Lee",
         "short_bio": "Chef Thomas Lee is a classically trained chef who has worked in some of the most prestigious restaurants in Europe. He specializes in French cuisine and has won several awards for his culinary creations.",
         "years_of_experience": 15,
@@ -198,7 +198,7 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_picture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=600",
         "chef_name": "Samantha Park",
         "short_bio": "Chef Samantha Park is a Korean-American chef who specializes in fusion cuisine. Her unique blend of Korean and American flavors has won her many awards and made her a favorite among foodies.",
         "years_of_experience": 10,
@@ -258,7 +258,7 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_picture": "https://images.pexels.com/photos/4057739/pexels-photo-4057739.jpeg?auto=compress&cs=tinysrgb&w=600",
         "chef_name": "Antonio Rodriguez",
         "short_bio": "Chef Antonio Rodriguez is a master of Spanish cuisine. He is known for his creative use of fresh seafood and his ability to fuse traditional Spanish dishes with modern techniques.",
         "years_of_experience": 15,
@@ -318,7 +318,7 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_picture": "https://images.pexels.com/photos/8879620/pexels-photo-8879620.jpeg?auto=compress&cs=tinysrgb&w=600",
         "chef_name": "Olivia Chen",
         "short_bio": "Chef Olivia Chen specializes in healthy and flavorful plant-based dishes.",
         "years_of_experience": 8,
