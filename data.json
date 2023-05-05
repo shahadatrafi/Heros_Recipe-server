@@ -55,170 +55,208 @@
         "num_recipes": 4,
         "likes": 1500,
         "recipes": [
-        {
-        "recipe_name": "Beef Bourguignon",
-        "ingredients": [
-        "2 pounds beef chuck roast",
-        "1 bottle red wine",
-        "1 onion, chopped",
-        "3 carrots, chopped",
-        "2 cloves garlic, minced",
-        "1/2 cup beef broth",
-        "1 tablespoon tomato paste",
-        "1 tablespoon flour",
-        "1 bay leaf",
-        "1 teaspoon thyme",
-        "1/2 teaspoon salt",
-        "1/4 teaspoon black pepper"
-        ],
-        "cooking_method": "1. Preheat the oven to 325°F. \n2. Cut the beef into 1-inch cubes. \n3. In a large Dutch oven, heat some oil over medium-high heat. \n4. Add the beef cubes and cook until browned on all sides. \n5. Remove the beef from the pot and set aside. \n6. Add the onion and carrots to the pot and sauté until tender. \n7. Add the garlic and cook for another minute. \n8. Return the beef to the pot. \n9. Add the red wine, beef broth, tomato paste, flour, bay leaf, thyme, salt, and pepper. \n10. Bring the mixture to a simmer. \n11. Cover the pot and transfer it to the oven. \n12. Bake for 2-3 hours, or until the beef is tender. \n13. Serve the beef bourguignon hot, garnished with chopped parsley.",
-        "rating": 4.6
-        },
-        {
-        "recipe_name": "Coq au Vin",
-        "ingredients": [
-        "4 chicken legs",
-        "1 bottle red wine",
-        "1 onion, chopped",
-        "3 carrots, chopped",
-        "2 cloves garlic, minced",
-        "1/2 cup chicken broth",
-        "1 tablespoon tomato paste",
-        "1 tablespoon flour",
-        "1 bay leaf",
-        "1 teaspoon thyme",
-        "1/2 teaspoon salt",
-        "1/4 teaspoon black pepper"
-        ],
-        "cooking_method": "1. Preheat the oven to 350°F. \n2. Cut the chicken legs into 2 pieces each. \n3. In a large Dutch oven, heat some oil over medium-high heat. \n4. Add the chicken pieces and cook until browned on all sides. \n5. Remove the chicken from the pot and set aside. \n6. Add the onion and carrots to the pot and sauté until tender. \n7. Add the garlic and cook for another minute. \n8. Return the chicken to the pot. \n9. Add the red wine, chicken broth, tomato paste, flour, bay leaf, thyme, salt, and pepper. \n10. Bring the mixture to a simmer. \n11. Cover the pot and transfer it to the oven. \n12. Bake for 1 hour, or until the chicken is cooked through. \n13. Serve the coq au vin hot, garnished with chopped parsley.",
-        "rating":4.3
+            {
+                "recipe_name": "Beef Bourguignon",
+                "ingredients": [
+                    "2 pounds beef chuck roast",
+                    "1 bottle red wine",
+                    "1 onion, chopped",
+                    "3 carrots, chopped",
+                    "2 cloves garlic, minced",
+                    "1/2 cup beef broth",
+                    "1 tablespoon tomato paste",
+                    "1 tablespoon flour",
+                    "1 bay leaf",
+                    "1 teaspoon thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 325°F. \n2. Cut the beef into 1-inch cubes. \n3. In a large Dutch oven, heat some oil over medium-high heat. \n4. Add the beef cubes and cook until browned on all sides. \n5. Remove the beef from the pot and set aside. \n6. Add the onion and carrots to the pot and sauté until tender. \n7. Add the garlic and cook for another minute. \n8. Return the beef to the pot. \n9. Add the red wine, beef broth, tomato paste, flour, bay leaf, thyme, salt, and pepper. \n10. Bring the mixture to a simmer. \n11. Cover the pot and transfer it to the oven. \n12. Bake for 2-3 hours, or until the beef is tender. \n13. Serve the beef bourguignon hot, garnished with chopped parsley.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Coq au Vin",
+                "ingredients": [
+                    "4 chicken legs",
+                    "1 bottle red wine",
+                    "1 onion, chopped",
+                    "3 carrots, chopped",
+                    "2 cloves garlic, minced",
+                    "1/2 cup chicken broth",
+                    "1 tablespoon tomato paste",
+                    "1 tablespoon flour",
+                    "1 bay leaf",
+                    "1 teaspoon thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 350°F. \n2. Cut the chicken legs into 2 pieces each. \n3. In a large Dutch oven, heat some oil over medium-high heat. \n4. Add the chicken pieces and cook until browned on all sides. \n5. Remove the chicken from the pot and set aside. \n6. Add the onion and carrots to the pot and sauté until tender. \n7. Add the garlic and cook for another minute. \n8. Return the chicken to the pot. \n9. Add the red wine, chicken broth, tomato paste, flour, bay leaf, thyme, salt, and pepper. \n10. Bring the mixture to a simmer. \n11. Cover the pot and transfer it to the oven. \n12. Bake for 1 hour, or until the chicken is cooked through. \n13. Serve the coq au vin hot, garnished with chopped parsley.",
+                "rating": 4.3
+            },
+            {
+                "recipe_name": "Ratatouille",
+                "ingredients": [
+                    "1 eggplant",
+                    "2 zucchini",
+                    "1 onion, chopped",
+                    "1 red bell pepper, chopped",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons olive oil",
+                    "1 can diced tomatoes",
+                    "1 bay leaf",
+                    "1 teaspoon thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 375°F. \n2. Cut the eggplant and zucchini into 1-inch cubes. \n3. In a large skillet, heat the olive oil over medium heat. \n4. Add the onion and sauté until tender. \n5. Add the red bell pepper and garlic and sauté for another minute. \n6. Add the eggplant and zucchini and sauté until tender. \n7. Add the diced tomatoes, bay leaf, thyme, salt, and pepper. \n8. Bring the mixture to a simmer. \n9. Cover the skillet and transfer it to the oven. \n10. Bake for 30 minutes, or until the vegetables are cooked through. \n11. Serve the ratatouille hot, garnished with chopped parsley.",
+                "rating": 4.1
+            },
+            {
+                "recipe_name": "French Onion Soup",
+                "ingredients": [
+                    "4 onions, thinly sliced",
+                    "4 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon flour",
+                    "6 cups beef broth",
+                    "1/4 cup red wine",
+                    "1 bay leaf",
+                    "1 teaspoon thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "4 slices French bread",
+                    "1/2 cup shredded Gruyère cheese"
+                ],
+                "cooking_method": "1. In a large pot, melt the butter with the olive oil over medium heat. \n2. Add the onions and sauté until caramelized. \n3. Add the garlic and cook for another minute. \n4. Sprinkle the flour over the onions and stir to combine. \n5. Add the beef broth, red wine, bay leaf, thyme, salt, and pepper. \n6. Bring the soup to a simmer and cook for 30 minutes. \n7. Preheat the broiler. \n8. Toast the French bread slices. \n9. Ladle the soup into oven-safe bowls. \n10. Top each bowl with a slice of toast and some shredded Gruyère cheese. \n11. Place the bowls under the broiler and broil until the cheese is melted and bubbly. \n12. Serve the French onion soup hot.",
+                "rating": 4.8
+            }
+        ]
     },
     {
-        "recipe_name": "Ratatouille",
-        "ingredients": [
-            "1 eggplant",
-            "2 zucchini",
-            "1 onion, chopped",
-            "1 red bell pepper, chopped",
-            "3 cloves garlic, minced",
-            "2 tablespoons olive oil",
-            "1 can diced tomatoes",
-            "1 bay leaf",
-            "1 teaspoon thyme",
-            "1/2 teaspoon salt",
-            "1/4 teaspoon black pepper"
-        ],
-        "cooking_method": "1. Preheat the oven to 375°F. \n2. Cut the eggplant and zucchini into 1-inch cubes. \n3. In a large skillet, heat the olive oil over medium heat. \n4. Add the onion and sauté until tender. \n5. Add the red bell pepper and garlic and sauté for another minute. \n6. Add the eggplant and zucchini and sauté until tender. \n7. Add the diced tomatoes, bay leaf, thyme, salt, and pepper. \n8. Bring the mixture to a simmer. \n9. Cover the skillet and transfer it to the oven. \n10. Bake for 30 minutes, or until the vegetables are cooked through. \n11. Serve the ratatouille hot, garnished with chopped parsley.",
-        "rating": 4.1
+        "id": 3,
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_name": "Thomas Lee",
+        "short_bio": "Chef Thomas Lee is a classically trained chef who has worked in some of the most prestigious restaurants in Europe. He specializes in French cuisine and has won several awards for his culinary creations.",
+        "years_of_experience": 15,
+        "num_recipes": 3,
+        "likes": 3025,
+        "recipes": [
+            {
+                "recipe_name": "Beef Bourguignon",
+                "ingredients": [
+                    "2 pounds beef chuck, cut into 1-inch cubes",
+                    "6 slices bacon, chopped",
+                    "2 onions, chopped",
+                    "4 garlic cloves, minced",
+                    "2 cups red wine",
+                    "2 cups beef broth",
+                    "2 tablespoons tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 pound carrots, peeled and cut into 1-inch pieces",
+                    "1 pound mushrooms, sliced",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the beef with salt and pepper. \n5. Brown the beef in the bacon fat over medium-high heat. \n6. Remove the beef with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, beef broth, tomato paste, and thyme. \n9. Return the beef and bacon to the Dutch oven. \n10. Cover and bake in the oven for 2 hours. \n11. Add the carrots and mushrooms and bake for another hour. \n12. Season with salt and pepper to taste. \n13. Serve hot.",
+                "rating": 4.7
+            },{
+                "recipe_name": "Beef Bourguignon",
+                "ingredients": [
+                    "2 pounds beef chuck, cut into 1-inch cubes",
+                    "6 slices bacon, chopped",
+                    "2 onions, chopped",
+                    "4 garlic cloves, minced",
+                    "2 cups red wine",
+                    "2 cups beef broth",
+                    "2 tablespoons tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 pound carrots, peeled and cut into 1-inch pieces",
+                    "1 pound mushrooms, sliced",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the beef with salt and pepper. \n5. Brown the beef in the bacon fat over medium-high heat. \n6. Remove the beef with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, beef broth, tomato paste, and thyme. \n9. Return the beef and bacon to the Dutch oven. \n10. Cover and bake in the oven for 2 hours. \n11. Add the carrots and mushrooms and bake for another hour. \n12. Season with salt and pepper to taste. \n13. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Coq Au Vin",
+                "ingredients": [
+                    "4 chicken legs, skin on",
+                    "6 slices bacon, chopped",
+                    "2 onions, chopped",
+                    "2 garlic cloves, minced",
+                    "2 cups red wine",
+                    "2 cups chicken broth",
+                    "2 tablespoons tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 pound mushrooms, sliced",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the chicken with salt and pepper. \n5. Brown the chicken in the bacon fat over medium-high heat. \n6. Remove the chicken with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, chicken broth, tomato paste, and thyme. \n9. Return the chicken and bacon to the Dutch oven. \n10. Cover and bake in the oven for 1 hour. \n11. Add the mushrooms and bake for another 30 minutes. \n12. Season with salt and pepper to taste",
+                "rating": 4.7
+            }
+        ]
     },
     {
-        "recipe_name": "French Onion Soup",
-        "ingredients": [
-            "4 onions, thinly sliced",
-            "4 tablespoons butter",
-            "2 tablespoons olive oil",
-            "2 cloves garlic, minced",
-            "1 tablespoon flour",
-            "6 cups beef broth",
-            "1/4 cup red wine",
-            "1 bay leaf",
-            "1 teaspoon thyme",
-            "1/2 teaspoon salt",
-            "1/4 teaspoon black pepper",
-            "4 slices French bread",
-            "1/2 cup shredded Gruyère cheese"
-        ],
-        "cooking_method": "1. In a large pot, melt the butter with the olive oil over medium heat. \n2. Add the onions and sauté until caramelized. \n3. Add the garlic and cook for another minute. \n4. Sprinkle the flour over the onions and stir to combine. \n5. Add the beef broth, red wine, bay leaf, thyme, salt, and pepper. \n6. Bring the soup to a simmer and cook for 30 minutes. \n7. Preheat the broiler. \n8. Toast the French bread slices. \n9. Ladle the soup into oven-safe bowls. \n10. Top each bowl with a slice of toast and some shredded Gruyère cheese. \n11. Place the bowls under the broiler and broil until the cheese is melted and bubbly. \n12. Serve the French onion soup hot.",
-        "rating": 4.8
-    }
-]
-},{
-    "id": 3,
-    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
-    "chef_name": "Thomas Lee",
-    "short_bio": "Chef Thomas Lee is a classically trained chef who has worked in some of the most prestigious restaurants in Europe. He specializes in French cuisine and has won several awards for his culinary creations.",
-    "years_of_experience": 15,
-    "num_recipes": 3,
-    "likes": 3025,
-    "recipes": [
-    {
-    "recipe_name": "Beef Bourguignon",
-    "ingredients": [
-    "2 pounds beef chuck, cut into 1-inch cubes",
-    "6 slices bacon, chopped",
-    "2 onions, chopped",
-    "4 garlic cloves, minced",
-    "2 cups red wine",
-    "2 cups beef broth",
-    "2 tablespoons tomato paste",
-    "1 teaspoon dried thyme",
-    "1 pound carrots, peeled and cut into 1-inch pieces",
-    "1 pound mushrooms, sliced",
-    "Salt and pepper, to taste"
-    ],
-    "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the beef with salt and pepper. \n5. Brown the beef in the bacon fat over medium-high heat. \n6. Remove the beef with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, beef broth, tomato paste, and thyme. \n9. Return the beef and bacon to the Dutch oven. \n10. Cover and bake in the oven for 2 hours. \n11. Add the carrots and mushrooms and bake for another hour. \n12. Season with salt and pepper to taste. \n13. Serve hot.",
-    "rating": 4.7
+        "id": 4,
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_name": "Samantha Park",
+        "short_bio": "Chef Samantha Park is a Korean-American chef who specializes in fusion cuisine. Her unique blend of Korean and American flavors has won her many awards and made her a favorite among foodies.",
+        "years_of_experience": 10,
+        "num_recipes": 3,
+        "likes": 2500,
+        "recipes": [
+            {
+                "recipe_name": "Bibimbap",
+                "ingredients": [
+                    "1 cup cooked white rice",
+                    "1/2 pound beef sirloin, thinly sliced",
+                    "1 teaspoon sesame oil",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon sugar",
+                    "1 tablespoon vegetable oil",
+                    "1 carrot, julienned",
+                    "1 zucchini, julienned",
+                    "4 shiitake mushrooms, thinly sliced",
+                    "1 clove garlic, minced",
+                    "1/2 cup bean sprouts",
+                    "1 egg",
+                    "1 tablespoon gochujang (Korean hot pepper paste)"
+                ],
+                "cooking_method": "1. Mix together the sesame oil, soy sauce, and sugar. Marinate the beef in this mixture for at least 30 minutes. \n2. Heat the vegetable oil in a pan over medium-high heat. Add the beef and stir-fry for 3-4 minutes. Set aside. \n3. In the same pan, stir-fry the carrot, zucchini, mushrooms, garlic, and bean sprouts until they are cooked but still slightly crunchy. \n4. Fry an egg over easy. \n5. To assemble the bibimbap, put the rice in a bowl and top it with the beef and vegetables. \n6. Place the egg on top. \n7. Serve with a dollop of gochujang on the side.",
+                "rating": 4.5
+            },{
+                "recipe_name": "Beef Bourguignon",
+                "ingredients": [
+                    "2 pounds beef chuck, cut into 1-inch cubes",
+                    "6 slices bacon, chopped",
+                    "2 onions, chopped",
+                    "4 garlic cloves, minced",
+                    "2 cups red wine",
+                    "2 cups beef broth",
+                    "2 tablespoons tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 pound carrots, peeled and cut into 1-inch pieces",
+                    "1 pound mushrooms, sliced",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the beef with salt and pepper. \n5. Brown the beef in the bacon fat over medium-high heat. \n6. Remove the beef with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, beef broth, tomato paste, and thyme. \n9. Return the beef and bacon to the Dutch oven. \n10. Cover and bake in the oven for 2 hours. \n11. Add the carrots and mushrooms and bake for another hour. \n12. Season with salt and pepper to taste. \n13. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Kimchi Grilled Cheese",
+                "ingredients": [
+                    "4 slices bread",
+                    "2 tablespoons butter, softened",
+                    "1/2 cup kimchi, chopped",
+                    "1/2 cup shredded cheddar cheese",
+                    "1/2 cup shredded mozzarella cheese"
+                ],
+                "cooking_method": "1. Spread butter on one side of each slice of bread. \n2. On the other side of two slices, spread the chopped kimchi. \n3. On top of the kimchi, sprinkle the shredded cheddar cheese. \n4. On top of the cheddar cheese, sprinkle the shredded mozzarella cheese. \n5. Place the remaining slices of bread on top, buttered side facing out. \n6. Heat a skillet over medium heat. \n7. Place the sandwiches in the skillet and cook until the bread is golden brown and the cheese is melted, about 3-4 minutes per side. \n8. Serve hot.",
+                "rating": 4.2
+            }
+        ]
     },
     {
-    "recipe_name": "Coq Au Vin",
-    "ingredients": [
-    "4 chicken legs, skin on",
-    "6 slices bacon, chopped",
-    "2 onions, chopped",
-    "2 garlic cloves, minced",
-    "2 cups red wine",
-    "2 cups chicken broth",
-    "2 tablespoons tomato paste",
-    "1 teaspoon dried thyme",
-    "1 pound mushrooms, sliced",
-    "Salt and pepper, to taste"
-    ],
-    "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the chicken with salt and pepper. \n5. Brown the chicken in the bacon fat over medium-high heat. \n6. Remove the chicken with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, chicken broth, tomato paste, and thyme. \n9. Return the chicken and bacon to the Dutch oven. \n10. Cover and bake in the oven for 1 hour. \n11. Add the mushrooms and bake for another 30 minutes. \n12. Season with salt and pepper to taste",
-    "rating": 4.7
-}
-]},{
-    "id": 4,
-    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
-    "chef_name": "Samantha Park",
-    "short_bio": "Chef Samantha Park is a Korean-American chef who specializes in fusion cuisine. Her unique blend of Korean and American flavors has won her many awards and made her a favorite among foodies.",
-    "years_of_experience": 10,
-    "num_recipes": 3,
-    "likes": 2500,
-    "recipes": [
-    {
-    "recipe_name": "Bibimbap",
-    "ingredients": [
-    "1 cup cooked white rice",
-    "1/2 pound beef sirloin, thinly sliced",
-    "1 teaspoon sesame oil",
-    "1 tablespoon soy sauce",
-    "1 tablespoon sugar",
-    "1 tablespoon vegetable oil",
-    "1 carrot, julienned",
-    "1 zucchini, julienned",
-    "4 shiitake mushrooms, thinly sliced",
-    "1 clove garlic, minced",
-    "1/2 cup bean sprouts",
-    "1 egg",
-    "1 tablespoon gochujang (Korean hot pepper paste)"
-    ],
-    "cooking_method": "1. Mix together the sesame oil, soy sauce, and sugar. Marinate the beef in this mixture for at least 30 minutes. \n2. Heat the vegetable oil in a pan over medium-high heat. Add the beef and stir-fry for 3-4 minutes. Set aside. \n3. In the same pan, stir-fry the carrot, zucchini, mushrooms, garlic, and bean sprouts until they are cooked but still slightly crunchy. \n4. Fry an egg over easy. \n5. To assemble the bibimbap, put the rice in a bowl and top it with the beef and vegetables. \n6. Place the egg on top. \n7. Serve with a dollop of gochujang on the side.",
-    "rating": 4.5
-    },
-    {
-    "recipe_name": "Kimchi Grilled Cheese",
-    "ingredients": [
-    "4 slices bread",
-    "2 tablespoons butter, softened",
-    "1/2 cup kimchi, chopped",
-    "1/2 cup shredded cheddar cheese",
-    "1/2 cup shredded mozzarella cheese"
-    ],
-    "cooking_method": "1. Spread butter on one side of each slice of bread. \n2. On the other side of two slices, spread the chopped kimchi. \n3. On top of the kimchi, sprinkle the shredded cheddar cheese. \n4. On top of the cheddar cheese, sprinkle the shredded mozzarella cheese. \n5. Place the remaining slices of bread on top, buttered side facing out. \n6. Heat a skillet over medium heat. \n7. Place the sandwiches in the skillet and cook until the bread is golden brown and the cheese is melted, about 3-4 minutes per side. \n8. Serve hot.",
-    "rating": 4.2
-    }
-    ]
-    },{
         "id": 5,
         "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
         "chef_name": "Antonio Rodriguez",
@@ -227,93 +265,113 @@
         "num_recipes": 4,
         "likes": 3500,
         "recipes": [
-        {
-        "recipe_name": "Paella",
-        "ingredients": [
-        "3 tablespoons olive oil",
-        "1 onion, chopped",
-        "1 red bell pepper, chopped",
-        "1 green bell pepper, chopped",
-        "4 cloves garlic, minced",
-        "2 cups short-grain rice",
-        "4 cups chicken broth",
-        "1 pinch saffron threads",
-        "1 pound mussels, scrubbed and debearded",
-        "1/2 pound shrimp, peeled and deveined",
-        "1/2 pound squid, cleaned and sliced",
-        "1/2 cup frozen peas",
-        "1 lemon, cut into wedges"
-        ],
-        "cooking_method": "1. Heat the olive oil in a large paella pan over medium heat. \n2. Add the onion, bell peppers, and garlic and sauté until the vegetables are softened, about 10 minutes. \n3. Add the rice and stir to coat with the oil. \n4. Add the chicken broth and saffron and bring to a boil. \n5. Reduce the heat to low and let the rice simmer for 20 minutes. \n6. Add the mussels, shrimp, and squid and continue to cook for another 10 minutes. \n7. Add the frozen peas and cook for an additional 5 minutes. \n8. Remove the pan from the heat and let it rest for 10 minutes. \n9. Serve hot with lemon wedges.",
-        "rating": 4.8
-        },
-        {
-        "recipe_name": "Tortilla Española",
-        "ingredients": [
-        "4 potatoes, peeled and sliced",
-        "1 onion, sliced",
-        "6 eggs",
-        "1/2 cup olive oil",
-        "Salt and pepper, to taste"
-        ],
-        "cooking_method": "1. Heat the olive oil in a large skillet over medium heat. \n2. Add the potatoes and onions and cook until the potatoes are tender and lightly browned, about 15 minutes. \n3. Drain the potatoes and onions in a colander, reserving the oil. \n4. Beat the eggs in a large bowl and add the potatoes and onions. Season with salt and pepper. \n5. Heat 1 tablespoon of the reserved oil in a small skillet over medium heat. \n6. Add the egg and potato mixture and cook until the bottom is set, about 5 minutes. \n7. Place a large plate over the skillet and flip the tortilla onto the plate. \n8. Slide the tortilla back into the skillet and cook until the other side is set, about 5 minutes. \n9. Slide the tortilla onto a plate and let it cool slightly before slicing and serving.",
-        "rating": 4.6
-        }
+            {
+                "recipe_name": "Paella",
+                "ingredients": [
+                    "3 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "1 red bell pepper, chopped",
+                    "1 green bell pepper, chopped",
+                    "4 cloves garlic, minced",
+                    "2 cups short-grain rice",
+                    "4 cups chicken broth",
+                    "1 pinch saffron threads",
+                    "1 pound mussels, scrubbed and debearded",
+                    "1/2 pound shrimp, peeled and deveined",
+                    "1/2 pound squid, cleaned and sliced",
+                    "1/2 cup frozen peas",
+                    "1 lemon, cut into wedges"
+                ],
+                "cooking_method": "1. Heat the olive oil in a large paella pan over medium heat. \n2. Add the onion, bell peppers, and garlic and sauté until the vegetables are softened, about 10 minutes. \n3. Add the rice and stir to coat with the oil. \n4. Add the chicken broth and saffron and bring to a boil. \n5. Reduce the heat to low and let the rice simmer for 20 minutes. \n6. Add the mussels, shrimp, and squid and continue to cook for another 10 minutes. \n7. Add the frozen peas and cook for an additional 5 minutes. \n8. Remove the pan from the heat and let it rest for 10 minutes. \n9. Serve hot with lemon wedges.",
+                "rating": 4.8
+            },{
+                "recipe_name": "Beef Bourguignon",
+                "ingredients": [
+                    "2 pounds beef chuck, cut into 1-inch cubes",
+                    "6 slices bacon, chopped",
+                    "2 onions, chopped",
+                    "4 garlic cloves, minced",
+                    "2 cups red wine",
+                    "2 cups beef broth",
+                    "2 tablespoons tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 pound carrots, peeled and cut into 1-inch pieces",
+                    "1 pound mushrooms, sliced",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. \n3. Remove the bacon with a slotted spoon and set aside. \n4. Season the beef with salt and pepper. \n5. Brown the beef in the bacon fat over medium-high heat. \n6. Remove the beef with a slotted spoon and set aside. \n7. Add the onions and garlic to the Dutch oven and sauté until tender. \n8. Add the wine, beef broth, tomato paste, and thyme. \n9. Return the beef and bacon to the Dutch oven. \n10. Cover and bake in the oven for 2 hours. \n11. Add the carrots and mushrooms and bake for another hour. \n12. Season with salt and pepper to taste. \n13. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Tortilla Española",
+                "ingredients": [
+                    "4 potatoes, peeled and sliced",
+                    "1 onion, sliced",
+                    "6 eggs",
+                    "1/2 cup olive oil",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Heat the olive oil in a large skillet over medium heat. \n2. Add the potatoes and onions and cook until the potatoes are tender and lightly browned, about 15 minutes. \n3. Drain the potatoes and onions in a colander, reserving the oil. \n4. Beat the eggs in a large bowl and add the potatoes and onions. Season with salt and pepper. \n5. Heat 1 tablespoon of the reserved oil in a small skillet over medium heat. \n6. Add the egg and potato mixture and cook until the bottom is set, about 5 minutes. \n7. Place a large plate over the skillet and flip the tortilla onto the plate. \n8. Slide the tortilla back into the skillet and cook until the other side is set, about 5 minutes. \n9. Slide the tortilla onto a plate and let it cool slightly before slicing and serving.",
+                "rating": 4.6
+            }
         ]
-        },{
-            "id": 6,
-            "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
-            "chef_name": "Olivia Chen",
-            "short_bio": "Chef Olivia Chen specializes in healthy and flavorful plant-based dishes.",
-            "years_of_experience": 8,
-            "num_recipes": 5,
-            "likes": 2500,
-            "recipes": [
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg",
+        "chef_name": "Olivia Chen",
+        "short_bio": "Chef Olivia Chen specializes in healthy and flavorful plant-based dishes.",
+        "years_of_experience": 8,
+        "num_recipes": 5,
+        "likes": 2500,
+        "recipes": [
             {
-            "recipe_name": "Vegan Ramen",
-            "ingredients": [
-            "4 oz ramen noodles",
-            "4 oz mushrooms",
-            "2 medium carrots, thinly sliced",
-            "1 small head of bok choy, leaves separated",
-            "2 scallions, thinly sliced"
-            ],
-            "cooking_method": "1. Cook the ramen noodles according to package instructions. Drain and set aside.\n2. In a separate pot, bring 4 cups of water to a boil. Add the mushrooms, carrots, and bok choy to the pot and simmer for 10-15 minutes until the vegetables are tender.\n3. Add the cooked ramen noodles to the pot with the vegetables and broth. Stir to combine and heat through.\n4. Serve hot, topped with sliced scallions.",
-            "rating": 4.7
+                "recipe_name": "Vegan Ramen",
+                "ingredients": [
+                    "4 oz ramen noodles",
+                    "4 oz mushrooms",
+                    "2 medium carrots, thinly sliced",
+                    "1 small head of bok choy, leaves separated",
+                    "2 scallions, thinly sliced"
+                ],
+                "cooking_method": "1. Cook the ramen noodles according to package instructions. Drain and set aside.\n2. In a separate pot, bring 4 cups of water to a boil. Add the mushrooms, carrots, and bok choy to the pot and simmer for 10-15 minutes until the vegetables are tender.\n3. Add the cooked ramen noodles to the pot with the vegetables and broth. Stir to combine and heat through.\n4. Serve hot, topped with sliced scallions.",
+                "rating": 4.7
             },
             {
-            "recipe_name": "Vegan Lentil Shepherd's Pie",
-            "ingredients": [
-            "1 cup green lentils",
-            "1 small onion, diced",
-            "2 cloves garlic, minced",
-            "2 medium carrots, peeled and diced",
-            "2 stalks celery, diced",
-            "1/2 cup frozen peas",
-            "1 tsp dried thyme",
-            "1 tsp dried rosemary",
-            "3 cups vegetable broth",
-            "4 medium potatoes, peeled and chopped",
-            "1/4 cup almond milk",
-            "2 tbsp vegan butter",
-            "Salt and pepper, to taste"
-            ],
-            "cooking_method": "1. Preheat the oven to 375°F.\n2. Cook the lentils according to package instructions and set aside.\n3. In a large skillet, sauté the onion and garlic in oil until translucent. Add the carrots and celery and sauté for a few minutes more.\n4. Add the cooked lentils, peas, thyme, rosemary, and vegetable broth to the skillet. Simmer for 10-15 minutes until the vegetables are tender and the broth has thickened slightly.\n5. In a separate pot, boil the potatoes until tender. Drain and mash with almond milk and vegan butter until smooth.\n6. Spread the lentil mixture evenly into a 9-inch baking dish. Top with the mashed potatoes.\n7. Bake for 25-30 minutes until the potatoes are golden and the filling is heated through.",
-            "rating": 4.5
+                "recipe_name": "Vegan Lentil Shepherd's Pie",
+                "ingredients": [
+                    "1 cup green lentils",
+                    "1 small onion, diced",
+                    "2 cloves garlic, minced",
+                    "2 medium carrots, peeled and diced",
+                    "2 stalks celery, diced",
+                    "1/2 cup frozen peas",
+                    "1 tsp dried thyme",
+                    "1 tsp dried rosemary",
+                    "3 cups vegetable broth",
+                    "4 medium potatoes, peeled and chopped",
+                    "1/4 cup almond milk",
+                    "2 tbsp vegan butter",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 375°F.\n2. Cook the lentils according to package instructions and set aside.\n3. In a large skillet, sauté the onion and garlic in oil until translucent. Add the carrots and celery and sauté for a few minutes more.\n4. Add the cooked lentils, peas, thyme, rosemary, and vegetable broth to the skillet. Simmer for 10-15 minutes until the vegetables are tender and the broth has thickened slightly.\n5. In a separate pot, boil the potatoes until tender. Drain and mash with almond milk and vegan butter until smooth.\n6. Spread the lentil mixture evenly into a 9-inch baking dish. Top with the mashed potatoes.\n7. Bake for 25-30 minutes until the potatoes are golden and the filling is heated through.",
+                "rating": 4.5
             },
             {
-            "recipe_name": "Roasted Brussels Sprouts Salad",
-            "ingredients": [
-            "1 lb Brussels sprouts, trimmed and halved",
-            "1/2 red onion, sliced",
-            "1/2 cup pecans, chopped",
-            "1/4 cup dried cranberries",
-            "2 tbsp olive oil",
-            "1 tbsp balsamic vinegar",
-            "1 tsp honey",
-            "Salt and pepper, to taste"
-            ],
-            "cooking_method": "1. Preheat the oven to 400°F.\n2. Toss the Brussels sprouts and eparate pot, bring 4 cups of water to a boil. Add the mushrooms, carrots, and bok choy to the pot and simmer for 10-15 minutes until the vegetables are tender.\n3. Add the cooked ramen noodles to the pot with the vegetables and broth. Stir to combine and heat through.\n4. Serve hot, topped with sliced scallions.",
-            "rating": 4.7
-            }]}
+                "recipe_name": "Roasted Brussels Sprouts Salad",
+                "ingredients": [
+                    "1 lb Brussels sprouts, trimmed and halved",
+                    "1/2 red onion, sliced",
+                    "1/2 cup pecans, chopped",
+                    "1/4 cup dried cranberries",
+                    "2 tbsp olive oil",
+                    "1 tbsp balsamic vinegar",
+                    "1 tsp honey",
+                    "Salt and pepper, to taste"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Toss the Brussels sprouts and eparate pot, bring 4 cups of water to a boil. Add the mushrooms, carrots, and bok choy to the pot and simmer for 10-15 minutes until the vegetables are tender.\n3. Add the cooked ramen noodles to the pot with the vegetables and broth. Stir to combine and heat through.\n4. Serve hot, topped with sliced scallions.",
+                "rating": 4.7
+            }
+        ]
+    }
 ]
